@@ -1,0 +1,24 @@
+# ================================
+# Unity Temporary & Generated Files
+# ================================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+.vs/
+.vscode/
+
+# ================================
+# WebGL Build Rules
+# ================================
+# Ignore any other builds, but explicitly include Build/WebGL and all its subfolders
+/[Bb]uilds/
+/[Bb]uild/*
+!/Build/WebGL/
+!/Build/WebGL/**
